@@ -45,6 +45,7 @@ brew install awscli
 brew install bash
 brew install bash-completion@2 ## Further setup required. see .bash_completion file
 brew install binutils
+brew install mas
 
 brew install cmake
 brew install curl
