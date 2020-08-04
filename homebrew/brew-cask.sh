@@ -52,6 +52,7 @@ brew cask install whatsapp
 brew cask install iterm2
 
 brew cask install visual-studio-code
+brew cask install arduino
 brew cask install postman
 
 
