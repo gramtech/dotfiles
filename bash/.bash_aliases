@@ -174,7 +174,7 @@ alias rmdir="rm –rf"
 #  ---------------------------------------------------------------------------
 
 # Get macOS Software Updates, and update installed Ruby gems, Homebrew, npm, and their installed packages
-alias update='sudo softwareupdate -i -a; brew cu --all; brew doctor; brew prune; clear; mas upgrade; npm install npm -g; npm update -g; sudo gem update --system; sudo gem update; sudo gem cleanup'
+alias update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cu --all --yes --cleanup; brew doctor; mas upgrade; brew cleanup; npm install npm -g; npm update -g'
 
 #  ---------------------------------------------------------------------------
 #  	6.  Shorter commands for `Homebrew`.

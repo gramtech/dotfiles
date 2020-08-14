@@ -43,6 +43,9 @@ brew cask install caffeine
 brew cask install cakebrew
 brew cask install cheatsheet
 brew cask install cleanmymac
+brew cask install ultimaker-cura
+brew cask install gimp
+brew cask install go2shell
 brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
@@ -51,14 +54,12 @@ brew cask install 1password
 brew cask install whatsapp
 brew cask install iterm2
 
-brew cask install visual-studio-code
 brew cask install arduino
+brew cask install balenaetcher
+
+brew cask install visual-studio-code
 brew cask install postman
-
-
-# brew cask install osxfuse
-# brew cask install steam
-
+brew cask install wireshark
 brew cask install tower
 brew cask install vagrant
 brew cask install vagrant-manager
@@ -67,6 +68,9 @@ brew cask install virtualbox-extension-pack
 brew cask install expressvpn
 
 brew cask install vlc
+
+# brew cask install osxfuse
+# brew cask install steam
 
 
 #  ---------------------------------------------------------------------------

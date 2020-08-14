@@ -37,6 +37,7 @@ brew cask install java
 # Add binaries
 #  ---------------------------------------------------------------------------
 brew install ack ## a tool like grep, optimized for programmers
+brew install awk
 brew install adns
 brew install aircrack-ng
 brew install ansible
@@ -47,6 +48,7 @@ brew install bash-completion@2 ## Further setup required. see .bash_completion f
 brew install binutils
 brew install mas
 
+brew install pcre2
 brew install cmake
 brew install curl
 brew install ssh-askpass
@@ -74,6 +76,7 @@ brew install p7zip
 brew install perl
 brew install python3
 
+brew instal telnet
 brew install tmux
 brew install tree
 brew install vim
@@ -84,7 +87,7 @@ brew install wget
 brew install yarn
 brew install youtube-dl
 
-
+brew install trash
 
 #  ---------------------------------------------------------------------------
 # Remove outdated versions
