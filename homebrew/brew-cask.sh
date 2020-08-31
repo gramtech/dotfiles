@@ -69,6 +69,9 @@ brew cask install expressvpn
 
 brew cask install vlc
 
+# £D Printing apps
+brew cask install openscad
+brew cask install Inkscape
 # brew cask install osxfuse
 # brew cask install steam
 
