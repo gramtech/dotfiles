@@ -58,6 +58,7 @@ brew cask install arduino
 brew cask install balenaetcher
 
 brew cask install visual-studio-code
+brew cask install intellij-idea-ce
 brew cask install postman
 brew cask install wireshark
 brew cask install tower

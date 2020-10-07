@@ -30,7 +30,10 @@ brew upgrade
 # Many of the binaries require Java so to avoid errors and warning Java 
 # is being installed first
 #  ---------------------------------------------------------------------------
-brew cask install java
+
+#brew cask install java
+# corretto is the AWS version of LTS Java
+brew cask install corretto
 
 
 #  ---------------------------------------------------------------------------
