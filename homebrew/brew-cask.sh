@@ -70,6 +70,9 @@ brew cask install expressvpn
 
 brew cask install vlc
 
+brew cask install etrecheckpro
+
+
 # £D Printing apps
 brew cask install openscad
 brew cask install Inkscape
