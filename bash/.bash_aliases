@@ -96,6 +96,8 @@ alias path='echo -e ${PATH//:/\\n}'
 alias so='shopt'
 alias zap='rm -i'                   # Remove file with warning
 
+alias cddata="cd /Volumes/Data/"
+
 #  ---------------------------------------------------------------------------
 #  	4.  Git SCM Cheats
 #  ---------------------------------------------------------------------------
