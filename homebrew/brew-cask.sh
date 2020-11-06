@@ -77,7 +77,9 @@ brew cask install etrecheckpro
 brew cask install openscad
 brew cask install Inkscape
 # brew cask install osxfuse
-# brew cask install steam
+
+brew cask install epic-games
+brew cask install steam
 
 
 #  ---------------------------------------------------------------------------
