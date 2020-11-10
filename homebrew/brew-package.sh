@@ -59,6 +59,7 @@ brew install ssh-askpass
 brew install fcrackzip
 brew install ffmpeg
 brew install findutils
+brew install fish
 brew install gcc
 brew install git
 # brew install git-flow
