@@ -51,7 +51,8 @@ brew cask install firefox
 brew cask install google-chrome
 brew cask install gemini
 brew cask install 1password
-brew cask install whatsapp
+# brew cask install whatsapp
+brew cask install signal
 brew cask install iterm2
 
 brew cask install arduino
@@ -76,7 +77,7 @@ brew cask install etrecheckpro
 # £D Printing apps
 brew cask install openscad
 brew cask install Inkscape
-# brew cask install osxfuse
+brew cask install osxfuse
 
 brew cask install epic-games
 brew cask install steam
