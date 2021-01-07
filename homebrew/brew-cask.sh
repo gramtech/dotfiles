@@ -38,6 +38,7 @@
 
 # brew cask install a-better-finder-rename
 # brew cask install gas-mask
+brew install cask adobe-acrobat-reader
 
 brew cask install caffeine
 brew cask install cakebrew
