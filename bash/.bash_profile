@@ -189,6 +189,9 @@ set convert-meta off
 # export JAVA_HOME
 PATH="$(brew --prefix)/opt/curl/bin:$PATH"
 PATH="$(brew --prefix)/sbin:$PATH"
+
+PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
 export PATH
 
 #  ---------------------------------------------------------------------------
