@@ -42,7 +42,6 @@ brew install cask adobe-acrobat-reader
 
 brew cask install caffeine
 brew cask install cakebrew
-brew cask install cheatsheet
 brew cask install cleanmymac
 brew cask install ultimaker-cura
 brew cask install gimp
@@ -52,8 +51,14 @@ brew cask install firefox
 brew cask install google-chrome
 brew cask install gemini
 brew cask install 1password
+
+
+
 # brew cask install whatsapp
 brew cask install signal
+brew install cask discord
+brew install cask telegram-desktop
+
 brew cask install iterm2
 
 brew cask install arduino
@@ -61,6 +66,7 @@ brew cask install balenaetcher
 
 brew cask install visual-studio-code
 brew cask install intellij-idea-ce
+brew cask install mysqlworkbench
 brew cask install postman
 brew cask install wireshark
 brew cask install tower
@@ -68,6 +74,7 @@ brew cask install vagrant
 brew cask install vagrant-manager
 brew cask install virtualbox
 brew cask install virtualbox-extension-pack
+
 brew cask install expressvpn
 
 brew cask install vlc
