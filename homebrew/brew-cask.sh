@@ -76,9 +76,7 @@ brew cask install virtualbox
 brew cask install virtualbox-extension-pack
 
 brew cask install expressvpn
-
 brew cask install vlc
-
 brew cask install etrecheckpro
 
 
