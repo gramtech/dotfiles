@@ -66,10 +66,13 @@ brew install git
 brew install gnupg
 brew install gnutls
 brew install go
+brew install powershell
 
 brew install highlight
 brew install htop
 brew install hub
+
+brew install jenv
 
 brew install lua
 brew install nmap
