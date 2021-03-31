@@ -40,62 +40,63 @@
 # brew cask install gas-mask
 brew install cask adobe-acrobat-reader
 
-brew cask install caffeine
-brew cask install cakebrew
-brew cask install cleanmymac
-brew cask install ultimaker-cura
-brew cask install gimp
-brew cask install go2shell
-brew cask install dropbox
-brew cask install firefox
-brew cask install google-chrome
-brew cask install gemini
-brew cask install 1password
+brew install caffeine
+brew install cakebrew
+brew install cleanmymac
+brew install ultimaker-cura
+brew install gimp
+brew install go2shell
+brew install dropbox
+brew install firefox
+brew install google-chrome
+brew install gemini
+brew install 1password
 
 
 
 # brew cask install whatsapp
-brew cask install signal
+brew install signal
 brew install cask discord
 brew install cask telegram-desktop
+brew install nextcloud
 
-brew cask install iterm2
+brew install iterm2
 
-brew cask install arduino
-brew cask install balenaetcher
+brew install arduino
+brew install balenaetcher
 
-brew cask install visual-studio-code
-brew cask install intellij-idea-ce
-brew cask install mysqlworkbench
-brew cask install postman
-brew cask install wireshark
-brew cask install tower
-brew cask install vagrant
-brew cask install vagrant-manager
-brew cask install virtualbox
-brew cask install virtualbox-extension-pack
+brew install visual-studio-code
+brew install intellij-idea-ce
+brew install mysqlworkbench
+brew install postman
+brew install wireshark
+brew install tower
+brew install vagrant
+brew install vagrant-manager
+brew install virtualbox
+brew install virtualbox-extension-pack
 
-brew cask install expressvpn
-brew cask install vlc
-brew cask install etrecheckpro
+brew install expressvpn
+brew install vlc
+brew install etrecheckpro
 
 
 # £D Printing apps
-brew cask install openscad
-brew cask install Inkscape
-brew cask install osxfuse
+brew install openscad
+brew install Inkscape
+brew install osxfuse
 
-brew cask install epic-games
-brew cask install steam
+brew install epic-games
+brew install steam
 
 
 #  ---------------------------------------------------------------------------
 #   Applications for work
 #  ---------------------------------------------------------------------------
 
-brew cask install slack
-brew cask install microsoft-teams
-brew cask install amazon-workspaces
+brew install slack
+brew install microsoft-teams
+brew install amazon-workspaces
 
 
 
