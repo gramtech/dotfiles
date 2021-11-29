@@ -38,65 +38,69 @@
 
 # brew cask install a-better-finder-rename
 # brew cask install gas-mask
-brew install cask adobe-acrobat-reader
+brew install --cask adobe-acrobat-reader
 
-brew install caffeine
-brew install cakebrew
-brew install cleanmymac
-brew install ultimaker-cura
-brew install gimp
-brew install go2shell
-brew install dropbox
-brew install firefox
-brew install google-chrome
-brew install gemini
-brew install 1password
+brew install --cask caffeine
+brew install --cask cakebrew
+brew install --cask cleanmymac
+brew install --cask ultimaker-cura
+brew install --cask gimp
+brew install --cask go2shell
+brew install --cask dropbox
+brew install --cask firefox
+brew install --cask google-chrome
+brew install --cask gemini
+brew install --cask 1password
 
 
 
 # brew cask install whatsapp
-brew install signal
-brew install cask discord
-brew install cask telegram-desktop
-brew install nextcloud
+brew install --cask signal
+brew install --cask cask discord
+brew install --cask cask telegram-desktop
+brew install --cask nextcloud
 
-brew install iterm2
+brew install --cask teamviewer
 
-brew install arduino
-brew install balenaetcher
+brew install --cask iterm2
 
-brew install visual-studio-code
-brew install intellij-idea-ce
-brew install mysqlworkbench
-brew install postman
-brew install wireshark
-brew install tower
-brew install vagrant
-brew install vagrant-manager
-brew install virtualbox
-brew install virtualbox-extension-pack
+brew install --cask arduino
+brew install --cask balenaetcher
 
-brew install expressvpn
-brew install vlc
-brew install etrecheckpro
+brew install --cask openzfs
+
+brew install --cask visual-studio-code
+brew install --cask intellij-idea-ce
+brew install --cask mysqlworkbench
+brew install --cask postman
+brew install --cask wireshark
+brew install --cask tower
+brew install --cask vagrant
+brew install --cask vagrant-manager
+brew install --cask virtualbox
+brew install --cask virtualbox-extension-pack
+
+brew install --cask expressvpn
+brew install --cask vlc
+brew install --cask etrecheckpro
 
 
 # £D Printing apps
-brew install openscad
-brew install Inkscape
-brew install osxfuse
+brew install --cask openscad
+brew install --cask Inkscape
+brew install --cask osxfuse
 
-brew install epic-games
-brew install steam
+brew install --cask epic-games
+brew install --cask steam
 
 
 #  ---------------------------------------------------------------------------
 #   Applications for work
 #  ---------------------------------------------------------------------------
 
-brew install slack
-brew install microsoft-teams
-brew install amazon-workspaces
+brew install --cask slack
+brew install --cask microsoft-teams
+brew install --cask amazon-workspaces
 
 
 

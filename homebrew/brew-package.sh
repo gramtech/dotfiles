@@ -56,6 +56,8 @@ brew install cmake
 brew install curl
 brew install ssh-askpass
 
+brew instal fritzing # CAD circuit design
+
 brew install fcrackzip
 brew install ffmpeg
 brew install findutils
@@ -67,6 +69,7 @@ brew install gnupg
 brew install gnutls
 brew install go
 brew install powershell
+brew install dotnet
 
 brew install highlight
 brew install htop
@@ -93,6 +96,7 @@ brew install wget
 
 brew install yarn
 brew install youtube-dl
+brew install obs # Open Broadcast Studio - live streaming & Recording 
 
 brew install trash
 
