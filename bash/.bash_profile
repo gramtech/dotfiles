@@ -45,6 +45,14 @@ export LANG
 ARCHFLAGS="-arch x86_64"
 export ARCHFLAGS
 
+# SSL Certs
+SSL_CERT_FILE="/usr/local/etc/ca-certificates/cert.pem"
+export SSL_CERT_FILE
+
+# Curl CA CERTS
+CURL_CA_BUNDLE=$SSL_CERT_FILE
+export CURL_CA_BUNDLE
+
 # Ensure user-installed binaries take precedence
 LIBCURL_CFLAGS=-L$(brew --prefix)/opt/curl/lib
 export LIBCURL_CFLAGS
@@ -60,9 +68,6 @@ export MAVEN_OPTS
 
 # GH_TOKEN="YOUR GH_TOKEN"
 # export GH_TOKEN
-
-SSL_CERT_FILE=	
-export SSL_CERT_FILE
 
 # AWS_ACCESS_KEY_ID=<Your requested AWS access ID>
 # export AWS_ACCESS_KEY_ID
