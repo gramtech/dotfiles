@@ -33,7 +33,7 @@ brew upgrade
 
 #brew cask install java
 # corretto is the AWS version of LTS Java
-brew cask install corretto
+brew install --cask corretto
 
 
 #  ---------------------------------------------------------------------------
@@ -70,6 +70,7 @@ brew install gnutls
 brew install go
 brew install powershell
 brew install dotnet
+brew install geckodriver # Firefox driver for selenium etc. Driver for Chrome is Cask
 
 brew install highlight
 brew install htop
