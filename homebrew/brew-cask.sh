@@ -56,8 +56,8 @@ brew install --cask 1password
 
 # brew cask install whatsapp
 brew install --cask signal
-brew install --cask cask discord
-brew install --cask cask telegram-desktop
+brew install --cask discord
+brew install --cask telegram-desktop
 brew install --cask nextcloud
 
 brew install --cask teamviewer
@@ -68,6 +68,8 @@ brew install --cask arduino
 brew install --cask balenaetcher
 
 brew install --cask openzfs
+
+brew install --cask chromedriver
 
 brew install --cask visual-studio-code
 brew install --cask intellij-idea-ce
